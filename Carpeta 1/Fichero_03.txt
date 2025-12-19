@@ -1,0 +1,10 @@
+En este fichero podemos encontrar la lista de "buenos" de Papá Noel:
+ - DRL
+ - ACV
+ - DAS
+ - LEJ
+ - PLM
+ - RSR
+ - JMUN
+ - ASP
+ - AEM
