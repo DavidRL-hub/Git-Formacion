@@ -14,4 +14,7 @@
 *.app
 .snapshots/*
 
+.csv
+.rdlc
+
 # End of https://www.toptal.com/developers/gitignore/api/al
